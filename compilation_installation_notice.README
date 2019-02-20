@@ -1,8 +1,8 @@
 COMPILATION & INSTALLATION NOTICE
 -------------------------------------
-1. Download the repository and extract it.
+1. Download the repository.
 
-2. Open quiz-manager-core/app.properties and after “jdbc.url=jdbc:h2:”, change the path to exactly where “src” database file is located on your hard drive. Your path should end with “/quiz-manager-core/src”.
+2. Open app.properties and after “jdbc.url=jdbc:h2:”, change the path to exactly where “src” database file is located on your hard drive. Your path should end with “/src”.
 
 3. Open “src/fr/epita/quiz/Launcher.java” in Eclipse and run it.
 
